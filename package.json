@@ -1,0 +1,20 @@
+{
+  "name": "skull_emoji_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git+https://github.com/MatchaOnMuffins/Skull_Emoji_Bot.git",
+  "author": "MatchaOnMuffins <henryzhangjcle@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "description": "An extremely useful Discord bot that reacts skull emoji to messages sent by select users.",
+  "bugs": {
+    "url": "https://github.com/MatchaOnMuffins/Skull_Emoji_Bot/issues"
+  },
+  "homepage": "https://github.com/MatchaOnMuffins/Skull_Emoji_Bot#readme",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
+}
